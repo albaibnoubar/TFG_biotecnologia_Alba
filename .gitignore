@@ -1,0 +1,20 @@
+# Archivos y carpetas de entorno virtual
+.venv/
+env/
+venv/
+__pycache__/
+*.py[cod]
+
+# Archivos de configuración de PyCharm
+.idea/
+
+# Archivos de log o temporales
+*.log
+*.tmp
+
+# Archivos de caché de Streamlit
+.streamlit/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
