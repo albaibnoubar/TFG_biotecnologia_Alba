@@ -43,6 +43,6 @@ CODIGO/
 
 3. Ejecuta la app con Streamlit
    ```bash
-streamlit run DDT.py
-```
+   streamlit run DDT.py
+   ```
 
