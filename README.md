@@ -2,7 +2,7 @@
 
 **Aplicación para el análisis computacional de fármacos contra proteínas diana**
 
-Este repositorio contiene la aplicación desarrollada como parte del Trabajo de Fin de Grado en el grado de Biotecnología. La herramienta permite consultar datos de bioactividad (IC50) de compuestos frente a proteínas diana, filtrar por fase clínica y visualizar resultados relevantes desde la base de datos ChEMBL.
+Este repositorio contiene la aplicación desarrollada como parte del Trabajo de Fin de Grado en el grado de Biotecnología por la Universidad Pablo de Olavide de Alba Ibnoubar Redondo. La herramienta permite consultar datos de bioactividad (IC50) de compuestos frente a proteínas diana, filtrar por fase clínica y visualizar resultados relevantes desde la base de datos ChEMBL.
 
 ## Funcionalidades
 
